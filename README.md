@@ -6,4 +6,5 @@ Firstly I did following process given as -: **Exploratory data analysis(data cle
 In this Model I use **"Advanced regression-Lasso and Ridge regression algorithim"** .I work on two problem statement which I state below:\
 - Which variables are significant in predicting the price of a house, and How well those variables describe the price of a house.
 - Determine the optimal value of lambda for ridge and lasso regression.
+
 I mention every process in my jupiter note book code file.\
