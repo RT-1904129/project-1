@@ -1,4 +1,4 @@
-# Predict important feature required for investment in the house by Housing Compeny 
+# Predict important feature required for investment in the house by Housing Company 
 Here I try to create a machine learning model which can be used by any housing company to predict important feature required for investment in that house . \
 Here I use "house_perchase.csv" data to train my model. \
 Firstly I did following process given as -: **Exploratory data analysis(data cleaning,feature selection,removing outleir).** 
